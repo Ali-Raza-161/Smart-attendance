@@ -1,0 +1,18 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+pyjwt
+bcrypt
+python-multipart
+openpyxl
+pytest
+httpx
+pillow
+numpy
+# Optional, NOT installed here (model weights are not included):
+# opencv-python
+# insightface
+# facenet-pytorch
+# onnxruntime
+# psycopg2-binary
